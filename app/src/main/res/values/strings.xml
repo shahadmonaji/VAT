@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VAT</string>
+    <string name="total_amount">Total Amount: %s</string>
+
+</resources>
